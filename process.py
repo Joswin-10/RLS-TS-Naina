@@ -7,3 +7,4 @@ class Process:
         self.completion_time = 0
         self.waiting_time = 0
         self.turnaround_time = 0
+        self.start_time = 0
